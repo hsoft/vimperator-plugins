@@ -9,3 +9,5 @@ its link. It also rebinds `C-a` and `C-x` to those actions because they have the
 (navigating paginated contents). If no proper link is found, falls back to the built-in `C-a` and
 `C-x` behavior.
 
+[vimperator]: http://www.vimperator.org/vimperator/
+
